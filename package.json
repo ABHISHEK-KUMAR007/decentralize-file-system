@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^6.8.0",
+    "hardhat-faucet": "^1.0.0"
+  }
+}
